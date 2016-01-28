@@ -1,0 +1,35 @@
+commit 08dd1a5b19a64c53685f7f04d34c6c75947d5744
+Author: paezjm86 <paezjm86@gmail.com>
+Date:   Fri Jan 22 23:22:02 2016 -0600
+
+    Salve mi portafolio
+
+commit a5da9f644f02cf7f1bca93054f9c05db6504c934
+Author: paezjm86 <paezjm86@gmail.com>
+Date:   Fri Jan 22 23:18:43 2016 -0600
+
+    Agregue descripcion
+
+commit ec9d513f7070f68afdde2c9eef1f24d5887e44e0
+Author: paezjm86 <paezjm86@gmail.com>
+Date:   Fri Jan 22 23:15:54 2016 -0600
+
+    Agregue redes sociales
+
+commit 0ba75286683122c54c9625e4e776ef8c10cd5dea
+Author: paezjm86 <paezjm86@gmail.com>
+Date:   Fri Jan 22 23:02:21 2016 -0600
+
+    Perfil Web escrito
+
+commit 358639f11f3bd18199bceaf1114be5b876b56756
+Author: paezjm86 <paezjm86@gmail.com>
+Date:   Fri Jan 22 22:54:51 2016 -0600
+
+    Subi foto de perfil y mi nombre
+
+commit 537c43a921d2c9879f93ece28fa217a849e1a810
+Author: paezjm86 <paezjm86@gmail.com>
+Date:   Fri Jan 22 22:39:05 2016 -0600
+
+    Estos son los archivos base de mi portafolio
